@@ -8,7 +8,7 @@ print(k)
 
 
 #ques 2
-a={'raman':{'maths':30,'physics':30,'chem':90},'Kapple':{'maths':90,'physics':50,'chem':10},'vipul':{'maths':78,'physics':30,'chem':60}}
+a={'samriti':{'maths':30,'physics':30,'chem':90},'kochhar':{'maths':90,'physics':50,'chem':10},'vipul':{'maths':78,'physics':30,'chem':60}}
 b=str(input('enter name of student '))
 for k,v in a.items():
     if b==k:
